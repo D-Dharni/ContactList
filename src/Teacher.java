@@ -1,3 +1,4 @@
+// Deven Dharni
 public class Teacher extends Person{
     private int salary;
 
